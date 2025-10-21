@@ -79,8 +79,8 @@ Tower 2, 727 Collins St, Docklands VIC 3008, Australia
 | Jeyamala D | VIT University | [jeyamala.d@vit.ac.in](mailto:jeyamala.d@vit.ac.in) |
 | Shivani Malhotra | Chitkara University | [shivani.malhotra@chitkara.edu.in](mailto:shivani.malhotra@chitkara.edu.in) |
 | Sunil Aryal | Deakin University | [sunil.aryal@deakin.edu.au](mailto:sunil.aryal@deakin.edu.au) |
-| Chen-Wei Yang | Luleå University of Technology (LTU) | [Chen-Wei.Yang@ltu.se](mailto:Chen-Wei.Yang@ltu.se) |
-| Sashikala Mishra | SIT Pune | [headcse@sitpune.edu.in](mailto:headcse@sitpune.edu.in) |
+| Chen-Wei Yang | Luleå University of Technology (LTU) | [chen-wei.yang@ltu.se](mailto:chen-wei.yang@ltu.se) |
+| Sashikala Mishra | Symbiosis Institute of Technology | [headcse@sitpune.edu.in](mailto:headcse@sitpune.edu.in) |
 | David Parry | Murdoch University | [david.parry@murdoch.edu.au](mailto:david.parry@murdoch.edu.au) |
 | Farzana Zahid | University of Waikato | [farzana.zahid@waikato.ac.nz](mailto:farzana.zahid@waikato.ac.nz) |
 
