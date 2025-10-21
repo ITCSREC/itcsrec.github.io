@@ -89,8 +89,8 @@ Tower 2, 727 Collins St, Docklands VIC 3008, Australia
 
 ## Contact
 
-For enquiries or expressions of interest, please contact:  
-📧 [ITCSREC2025](itcsrec2026@easychair.org)  
+For all enquiries, please contact the ITCSREC 2026 organisers at  
+📧 [itcsrec2026@easychair.org](mailto:itcsrec2026@easychair.org)
 🌐 [https://itcsrec.github.io](https://itcsrec.github.io)
 
 ---
