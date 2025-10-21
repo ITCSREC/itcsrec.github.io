@@ -36,7 +36,7 @@ All submissions will undergo **double-blind peer review**.
 - **Full papers:** up to 8 pages (excluding references)
 - **Short papers:** 2–4 pages (excluding references)
 
-Submission link: *TBA*  
+Submission link: [EasyChair](https://easychair.org/conferences/?conf=acsw2026) 
 Format: [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template)
 
 ---
@@ -90,7 +90,7 @@ Tower 2, 727 Collins St, Docklands VIC 3008, Australia
 ## Contact
 
 For enquiries or expressions of interest, please contact:  
-📧 [TBA]  
+📧 [ITCSREC2025](itcsrec2026@easychair.org)  
 🌐 [https://itcsrec.github.io](https://itcsrec.github.io)
 
 ---
