@@ -83,7 +83,7 @@ Tower 2, 727 Collins St, Docklands VIC 3008, Australia
 | Sashikala Mishra | Symbiosis Institute of Technology | [headcse@sitpune.edu.in](mailto:headcse@sitpune.edu.in) |
 | David Parry | Murdoch University | [david.parry@murdoch.edu.au](mailto:david.parry@murdoch.edu.au) |
 | Farzana Zahid | University of Waikato | [farzana.zahid@waikato.ac.nz](mailto:farzana.zahid@waikato.ac.nz) |
-
+| Oscar Karnalim | Maranatha Christian University | [oscar.karnalim@it.maranatha.edu](mailto:oscar.karnalim@it.maranatha.edu) |
 
 ---
 
