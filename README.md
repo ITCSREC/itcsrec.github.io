@@ -45,8 +45,8 @@ Format: [ACM Proceedings Template](https://www.acm.org/publications/proceedings-
 
 | Milestone | Date (AEST) |
 |------------|-------------|
-| Abstract submission deadline | **5 December 2025** |
-| Paper submission deadline | **12 December 2025** |
+| Abstract submission deadline | ~~**5 December 2025**~~ **10 December 2025** |
+| Paper submission deadline | ~~**12 December 2025**~~ **15 December 2025** |
 | Notification of acceptance | **26 January 2026** |
 | Camera-ready deadline | **30 January 2026** |
 | Conference dates | **9–13 February 2026** |
