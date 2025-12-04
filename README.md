@@ -39,6 +39,17 @@ All submissions will undergo **double-blind peer review**.
 Submission link: [EasyChair](https://easychair.org/conferences/?conf=acsw2026) 
 Format: [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template)
 
+**Important note to authors about ACM's new open access publishing model**
+
+ACM has introduced a new open access publishing model for the International Conference Proceedings Series (ICPS). Authors based at institutions that are not yet part of the ACM Open program and do not qualify for a full geographic waiver will be required to pay an article processing charge (APC) to publish their ICPS article in the ACM Digital Library. To determine whether or not an APC will be applicable to your article, please follow the detailed guidance here: [Author Guidance](https://www.acm.org/publications/icps/author-guidance).
+
+Further information may be found on the ACM website, as follows:
+
+Full details of the new ICPS publishing model: [ICPS publication model](https://www.acm.org/publications/icps/faq)
+Full details of the ACM Open program: [ACM Open program](https://www.acm.org/publications/openaccess)
+
+Please direct all questions about the new model to [icps-info@acm.org](mailto:icps-info@acm.org).
+
 ---
 
 ## Important Dates
