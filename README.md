@@ -1,13 +1,13 @@
-# ITCSREC 2026  
+# ITCSREC 2027  
 ### International and Transnational Computer Science Research and Education Conference  
-**Part of [Australasian Computer Science Week (ACSW 2026)](https://acsw.core.edu.au/)**  
-**9–13 February 2026 – Deakin University, Melbourne City Campus (Docklands VIC, Australia)**  
+**Part of [Australasian Computer Science Week (ACSW 2027)](https://acsw.core.edu.au/)**  
+**1–5 February 2027 – Australian National University, (Canberra, Australia)**  
 
 ---
 
 ## Welcome to ITCSREC!
 
-The **International and Transnational Computer Science Research and Education Conference (ITCSREC 2026)** provides a dedicated forum for sharing research, practice, and perspectives on the challenges, innovations, and opportunities in **international and transnational computer science research and education**.
+The **International and Transnational Computer Science Research and Education Conference (ITCSREC 2027)** provides a dedicated forum for sharing research, practice, and perspectives on the challenges, innovations, and opportunities in **international and transnational computer science research and education**.
 
 In an era of global collaboration, joint curricula, student mobility, and cross-border research, ITCSREC offers a timely venue to bring together academics, practitioners, and policymakers to discuss and advance this important area.
 
@@ -29,14 +29,14 @@ In an era of global collaboration, joint curricula, student mobility, and cross-
 
 ## Proceedings
 
-Accepted papers will be published in the **ACM Digital Library** as part of the **ACSW 2026 Proceedings**.  
+Accepted papers will be published in the **ACM Digital Library** as part of the **ACSW 2027 Proceedings**.  
 All submissions will undergo **double-blind peer review**.
 
 **Submission categories:**
 - **Full papers:** up to 8 pages (excluding references)
 - **Short papers:** 2–4 pages (excluding references)
 
-Submission link: [EasyChair](https://easychair.org/conferences/?conf=acsw2026) 
+Submission link: [EasyChair](https://easychair.org/conferences/?conf=acsw2027) 
 Format: [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template)
 
 **Important note to authors about ACM's new open access publishing model**
@@ -56,18 +56,18 @@ Please direct all questions about the new model to [icps-info@acm.org](mailto:ic
 
 | Milestone | Date (AEST) |
 |------------|-------------|
-| Abstract submission deadline | ~~**5 December 2025**~~ **10 December 2025** |
-| Paper submission deadline | ~~**12 December 2025**~~ **15 December 2025** |
-| Notification of acceptance | **26 January 2026** |
-| Camera-ready deadline | **30 January 2026** |
-| Conference dates | **9–13 February 2026** |
+| Abstract submission deadline | TBD |<!-- ~~**5 December 2025**~~ **10 December 2025** | -->
+| Paper submission deadline | TBD |<!-- ~~**12 December 2025**~~ **15 December 2025** | -->
+| Notification of acceptance | TBD |<!-- **26 January 2026** | -->
+| Camera-ready deadline | TBD |<!-- **30 January 2026** | -->
+| Conference dates | TBD |<!-- **9–13 February 2026** | -->
 
 ---
 
 ## Conference Venue
 
-**Deakin University – Melbourne City Campus**  
-Tower 2, 727 Collins St, Docklands VIC 3008, Australia  
+**Australian National University, (Canberra, Australia)**  
+More details to come ##Tower 2, 727 Collins St, Docklands VIC 3008, Australia  
 
 ---
 
@@ -100,10 +100,10 @@ Tower 2, 727 Collins St, Docklands VIC 3008, Australia
 
 ## Contact
 
-For all enquiries, please contact the ITCSREC 2026 organisers at  
-📧 [itcsrec2026@easychair.org](mailto:itcsrec2026@easychair.org)
+For all enquiries, please contact the ITCSREC 2027 organisers at  
+📧 [itcsrec2027@easychair.org](mailto:itcsrec2027@easychair.org)
 🌐 [https://itcsrec.github.io](https://itcsrec.github.io)
 
 ---
 
-© 2025 ITCSREC | In cooperation with [ACSW](https://acsw.core.edu.au/) and ACM.
+© 2026 ITCSREC | In cooperation with [ACSW](https://acsw.core.edu.au/) and ACM.
