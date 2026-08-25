@@ -66,7 +66,7 @@ Please direct all questions about the new model to [icps-info@acm.org](mailto:ic
 ## Conference Venue
 
 **Australian National University, (Canberra, Australia)**  
-More details to come ##Tower 2, 727 Collins St, Docklands VIC 3008, Australia  
+More details to come!
 
 ---
 
