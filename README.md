@@ -56,11 +56,10 @@ Please direct all questions about the new model to [icps-info@acm.org](mailto:ic
 
 | Milestone | Date (AEST) |
 |------------|-------------|
-| Abstract submission deadline | TBD |<!-- ~~**5 December 2025**~~ **10 December 2025** | -->
-| Paper submission deadline | TBD |<!-- ~~**12 December 2025**~~ **15 December 2025** | -->
-| Notification of acceptance | TBD |<!-- **26 January 2026** | -->
-| Camera-ready deadline | TBD |<!-- **30 January 2026** | -->
-| Conference dates | TBD |<!-- **9–13 February 2026** | -->
+| Paper submission deadline | **15 November 2026** |<!-- ~~**12 December 2025**~~ **15 December 2025** | -->
+| Notification of acceptance | **15 December 2026** |<!-- **26 January 2026** | -->
+| Camera-ready deadline | **20 December 2026** |<!-- **30 January 2026** | -->
+| Conference dates | **1-5 February 2027** |<!-- **9–13 February 2026** | -->
 
 ---
 
