@@ -85,7 +85,7 @@ More details to come!
 | Name | Affiliation | Email |
 |------|--------------|--------|
 | Matthew Kuo | Auckland University of Technology | [matthew.kuo@aut.ac.nz](mailto:matthew.kuo@aut.ac.nz) |
-| Deepak Bajaj | Deakin University | [deepak.bajaj@deakin.edu.au](mailto:deepak.bajaj@deakin.edu.au) |
+| Swati Kumari | Deakin University | [swati.kumari@deakin.edu.au](mailto:swati.kumari@deakin.edu.au) |
 | Jeyamala D | VIT University | [jeyamala.d@vit.ac.in](mailto:jeyamala.d@vit.ac.in) |
 | Shivani Malhotra | Chitkara University | [shivani.malhotra@chitkara.edu.in](mailto:shivani.malhotra@chitkara.edu.in) |
 | Sunil Aryal | Deakin University | [sunil.aryal@deakin.edu.au](mailto:sunil.aryal@deakin.edu.au) |
